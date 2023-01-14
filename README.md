@@ -11,6 +11,7 @@ This model includes a regression problem for predicting the price of the flight 
 - Trained using various regression models
 - Has R2 score of 96% with Random Forest
 - ML webapp is prepared
+- Visualisation is done using Power BI
 
 
 
