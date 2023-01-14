@@ -23,4 +23,4 @@ This model uses the following libraries:
 
 
 ## Code
-The code is provided in the flight_price_prediction.ipynb notebook file.You will also be required to use the included the Clean_Dataset.csv dataset file to complete your work.
+The code is provided in the flight_price_prediction.ipynb notebook file.You will also be required to use the included the Clean_Dataset.csv dataset file to complete your work.For viasualiing the dataset please refer flight_price_visualisation file
