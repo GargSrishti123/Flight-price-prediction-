@@ -10,6 +10,7 @@ This model includes a regression problem for predicting the price of the flight 
 - Performed EDA
 - Trained using various regression models
 - Has R2 score of 96% with Random Forest
+- ML webapp is prepared
 
 
 
@@ -23,4 +24,4 @@ This model uses the following libraries:
 
 
 ## Code
-The code is provided in the flight_price_prediction.ipynb notebook file.You will also be required to use the included the Clean_Dataset.csv dataset file to complete your work.For viasualiing the dataset please refer flight_price_visualisation.pbix file
+The code is provided in the flight_price_prediction.ipynb notebook file.You will also be required to use the included the Clean_Dataset.csv dataset file to complete your work.For viasualiing the dataset please refer flight_price_visualisation.pbix file.
