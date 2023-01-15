@@ -1,7 +1,7 @@
 
 # Flight Price Prediction 
 
-This model includes a regression problem for predicting the price of the flight based on various features like airlines,departure_time,source_city,class,etc.
+This project includes a regression problem for predicting the price of the flight based on various features like airlines,departure_time,source_city,class,etc.
 
 
 
